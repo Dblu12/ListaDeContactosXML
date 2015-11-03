@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Contactos_XMLaaa</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="str_borrar">Borrar</string>
+    <string name="str_editar">Editar</string>
+    <string name="str_insertar">Insertar</string>
+    <string name="str_si">Si</string>
+    <string name="str_no">No</string>
+    <string name="str_nin">Ninguna en esta sesion</string>
+    <string name="title_activity_nuevo_contacto">Nuevo contacto</string>
+    <string name="title_activity_editar_contacto">Editar contacto</string>
+    <string name="title_activity_anadir_contacto">Añadir contacto</string>
+
+    <string name="anadirbt">Añadir</string>
+    <string name="aceptarbt">Aceptar</string>
+    <string name="atrasbt">Atras</string>
+    <string name="cancelarbt">Cancelar</string>
+    <string name="nuevocon">Nuevo contacto</string>
+
+    <string name="telefonos">Telefonos</string>
+    <string name="telefono">Telefono</string>
+
+    <string name="conana">Contacto añadido</string>
+    <string name="numana">Numero añadido</string>
+
+    <string name="error1">Introduce al menos un numero y el nombre</string>
+    <string name="error2">Debe de quedar al menos un numero</string>
+    <string name="intnomb">Introduce un nombre</string>
+    <string name="intnum">Introduce un numero</string>
+
+    <string name="buscar">Buscar</string>
+
+    <string name="pregunta">¿Desea activar la sincronizacion automatica?</string>
+    <string name="tipreg">Sincronizacion</string>
+    <string name="btsincronizar">Sincronizar</string>
+</resources>
